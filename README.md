@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HSYAndone&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HSYAndone&theme=dark"/>
 
 <!-- **
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HSYAndone&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&theme=dark" />
@@ -6,9 +6,8 @@
 
 ### Hi there 👋
 
-        
-
-- 🤔 I’m looking for help with parallel computing and distributed system
+       
+- 🤔 I’m looking for help with Parallel Computing and Distributed System
 - 📫 How to reach me: sduhe97@gmail.com
 
 <!--
