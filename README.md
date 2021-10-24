@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🤔 I’m looking for help with parallel computing and distributed system
+- - 📫 How to reach me: sduhe97@gmail.com
+
 <!--
 **HSYAndone/HSYAndone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
